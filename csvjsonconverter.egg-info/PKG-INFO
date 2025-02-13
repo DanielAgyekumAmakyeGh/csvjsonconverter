@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: csvjsonconverter
+Version: 0.1.0
+Summary: A simple package to convert CSV files to JSON
+Author: Daniel Agyekum Amakye
+Author-email: janetobosuayaa@gmail.com
+Requires-Dist: pandas
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: summary

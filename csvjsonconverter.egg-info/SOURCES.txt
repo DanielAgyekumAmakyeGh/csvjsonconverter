@@ -1,0 +1,7 @@
+setup.py
+csvjsonconverter/__init__.py
+csvjsonconverter.egg-info/PKG-INFO
+csvjsonconverter.egg-info/SOURCES.txt
+csvjsonconverter.egg-info/dependency_links.txt
+csvjsonconverter.egg-info/requires.txt
+csvjsonconverter.egg-info/top_level.txt
